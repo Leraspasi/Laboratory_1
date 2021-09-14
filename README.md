@@ -1,4 +1,4 @@
-# **LAB 1 BY VALERIIA **
+# **LAB 1 BY VALERIIA**
 1) Create git repository and C# project.
 2) Make first commit.
 3) Make second commit.
