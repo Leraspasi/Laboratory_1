@@ -6,9 +6,9 @@ namespace lab_1_lera
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Введите свое имя.");
+            Console.WriteLine("Input your name.");
             string name = Console.ReadLine();
-            Console.WriteLine($"Привет, {name}!");
+            Console.WriteLine($"Hello, {name}!");
         }
     }
 }
